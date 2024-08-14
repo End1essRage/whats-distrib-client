@@ -1,0 +1,10 @@
+{
+  "name": "whats-distrib-client",
+  "version": "0.0.0",
+  "main": "main.js",
+  "repository": "github.com/end1essrage/whats-distrib-client",
+  "author": "End1essRage <end1essrage@mail.ru>",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
